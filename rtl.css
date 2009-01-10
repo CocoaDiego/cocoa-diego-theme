@@ -1,0 +1,22 @@
+/* Based on Arabic (RTL) version of WordPress Classic theme,converted by Serdal (Serdal.com) */
+#menu ul ul,#wp-calendar caption,#wp-calendar #prev a{}
+#wp-calendar #next a,.feedback{}
+blockquote{}
+body{}
+h2{}
+p,li,.feedback{}
+acronym,abbr,span.caps,h2,p,li,#header,#menu ul li,#menu ul ul li,#wp-calendar td,.feedback,.meta,.meta a{}
+#commentlist li ul{}
+#commentlist li .avatar{}
+#commentlist li .avatar{}
+#content{}
+#header{}
+#menu{}
+#menu form{}
+#menu ul{}
+#menu ul li{}
+#menu ul ul li{}
+#menu ul ul ul.children{}
+#wp-calendar #next a{}
+#wp-calendar #prev a{}
+#wp-calendar td{}

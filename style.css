@@ -1,0 +1,70 @@
+/*
+Theme Name: Cocoa Diego
+Theme URI:http://www.cocoadiego.com/
+Description:Version:1.0
+Author:Michael Hamson
+Tags:
+*/
+a{}
+a img{}
+a:visited{}
+a:hover{}
+acronym,abbr{}
+acronym,abbr,span.caps{}
+acronym,abbr{}
+blockquote{}
+body{}
+cite{}
+h2{}
+h3{}
+p{}
+ol#comments li p{}
+p,li,.feedback{}
+/* classes used by the_meta() */
+ul.post-meta{}
+ul.post-meta span.post-meta-key{}
+.credit{}
+.credit a:link,.credit a:hover{}
+.feedback{}
+.meta{}
+.meta li,ul.post-meta li{}
+.meta ul{}
+.meta,.meta a{}
+.storytitle{}
+.storytitle a{}
+#commentform #author,#commentform #email,#commentform #url,#commentform textarea{}
+#commentform textarea{}
+#commentlist li ul{}
+#commentlist li .avatar{}
+#content{}
+#header{}
+#header a{}
+#header a:hover{}
+#menu{}
+#menu form{}
+#menu input#s{}
+#menu ul{}
+#menu ul li{}
+#menu ul ul{}
+#menu ul ul li{}
+#menu ul ul li a{}
+#menu ul ul li a:hover{}
+#menu ul ul ul.children{}
+#wp-calendar{}
+#wp-calendar #next a{}
+#wp-calendar #prev a{}
+#wp-calendar a{}
+#wp-calendar a:hover{}
+#wp-calendar caption{}
+#wp-calendar td{}
+#wp-calendar td.pad:hover{}
+#wp-calendar td:hover,#wp-calendar #today{}
+#wp-calendar th{}
+/* Captions & aligment */
+.aligncenter,div.aligncenter{}
+.alignleft{}
+.alignright{}
+.wp-caption{}
+.wp-caption img{}
+.wp-caption p.wp-caption-text{}
+/* End captions & aligment */
